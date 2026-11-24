@@ -1,0 +1,10 @@
+.env
+backend/.env
+backend/.venv/
+frontend/node_modules/
+frontend/dist/
+venv/
+__pycache__/
+*.py[cod]
+health_records.sqlite3
+backend/health_records.sqlite3
